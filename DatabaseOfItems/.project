@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Assignment6</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/prog24178/interface.fxml</name>
+			<type>1</type>
+			<location>C:/Users/jasleen/eclipse-workspace/Assignment6/src/prog24178/interface.fxml</location>
+		</link>
+		<link>
+			<name>src/prog24178/items.txt</name>
+			<type>1</type>
+			<location>C:/Assignment6/items.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
